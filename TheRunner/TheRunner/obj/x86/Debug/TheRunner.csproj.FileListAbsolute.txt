@@ -1,0 +1,905 @@
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.exe
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.pdb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.csprojResolveAssemblyReference.cache
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.exe
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.pdb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackground.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlay.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomize.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelp.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscores.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\boo.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Hit.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Jump.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Selection.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound1.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound2.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.wma
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.wma
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.wma
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.wma
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.wma
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.wma
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButton.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PauseButton.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PlayButton.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButton.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButtonMute.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\CustomizeMenu.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlpha.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPink.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchToRun.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlpha.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPink.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlpha.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPink.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunToCrouch.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunZombie.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunRedThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunBlueThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunGreenThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunOrangeThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPinkThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPurpleThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunYellowThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunZombieThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\underline.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon).xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon)ZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky).xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky)ZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrack.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrackZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Craters).xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Horizon).xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundDistantStars.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth(Color).xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundStars.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonSky.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonTrack.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackground.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumTrack.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\Track.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverReplay.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverTitle.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\BonesOverheadBar.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\Hurdle.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\OverheadBar.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\TombstoneHurdle.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedQuit.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedResume.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedSelector.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedTitle.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackgroundZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelpZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscoresZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlayZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelectorZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelector.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\black.xnb
+C:\Users\Arakis00\Desktop\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GeneralFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelp.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscores.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PauseButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PlayButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButtonMute.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\CustomizeMenu.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchToRun.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunToCrouch.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunRedThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunBlueThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunGreenThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunOrangeThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPinkThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPurpleThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunYellowThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunZombieThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\underline.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrackZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Craters).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundDistantStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth(Color).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonSky.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\Track.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverReplay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\BonesOverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\Hurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\OverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\TombstoneHurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedQuit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedResume.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelpZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscoresZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlayZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelectorZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\black.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\boo.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Hit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Jump.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Selection.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound1.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound2.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GeneralFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.csprojResolveAssemblyReference.cache
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\FinishLine.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackground.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlay.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomize.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelp.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscores.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButton.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PauseButton.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PlayButton.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButton.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButtonMute.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\CustomizeMenu.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlpha.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPink.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchToRun.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlpha.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPink.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlpha.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPink.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunToCrouch.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunZombie.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunRedThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunBlueThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunGreenThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunOrangeThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPinkThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPurpleThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunYellowThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunZombieThumb.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\underline.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon).xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon)ZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky).xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky)ZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrack.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrackZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Craters).xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Horizon).xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundDistantStars.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth(Color).xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundStars.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonSky.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonTrack.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackground.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumTrack.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\Track.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverReplay.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverTitle.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\BonesOverheadBar.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\Hurdle.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\OverheadBar.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\TombstoneHurdle.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedQuit.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedResume.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedSelector.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedTitle.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackgroundZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelpZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscoresZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlayZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelectorZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelector.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\black.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\FinishLine.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\boo.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Hit.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Jump.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Selection.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound1.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound2.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GeneralFont.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.wma
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.wma
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.wma
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.wma
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.wma
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.wma
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.exe
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.pdb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.csprojResolveAssemblyReference.cache
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.exe
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.pdb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomize.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchZombie.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackground.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackgroundZombieMode.xnb
+C:\Users\Arakis00\Desktop\TheRunner 2.0.8 (Refactored Version)\TheRunner(Newest as of 4-25)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButtonZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelp.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscores.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PauseButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PlayButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButtonMute.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\CustomizeMenu.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchToRun.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunToCrouch.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunRedThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunBlueThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunGreenThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunOrangeThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPinkThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPurpleThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunYellowThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunZombieThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\underline.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrackZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Craters).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundDistantStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth(Color).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonSky.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\Track.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverReplay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\BonesOverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\Hurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\OverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\TombstoneHurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedQuit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedResume.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelpZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscoresZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlayZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelectorZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\black.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\FinishLine.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButtonZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\boo.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Hit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Jump.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Selection.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound1.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound2.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GeneralFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.csprojResolveAssemblyReference.cache
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.9\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\LevelCompleted.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelp.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscores.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PauseButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PlayButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButtonMute.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\CustomizeMenu.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchToRun.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunToCrouch.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunRedThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunBlueThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunGreenThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunOrangeThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPinkThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPurpleThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunYellowThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunZombieThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\underline.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrackZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Craters).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundDistantStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth(Color).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonSky.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\Track.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverReplay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\BonesOverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\Hurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\OverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\TombstoneHurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedQuit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedResume.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelpZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscoresZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlayZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelectorZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\black.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\FinishLine.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButtonZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\LevelCompleted.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\boo.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Hit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Jump.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Selection.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound1.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound2.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GeneralFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.csprojResolveAssemblyReference.cache
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoresBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner2.0.11\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoresFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelp.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscores.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PauseButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PlayButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButtonMute.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\CustomizeMenu.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchToRun.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunToCrouch.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunRedThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunBlueThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunGreenThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunOrangeThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPinkThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPurpleThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunYellowThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunZombieThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\underline.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrackZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Craters).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundDistantStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth(Color).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonSky.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\Track.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverReplay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\BonesOverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\Hurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\OverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\TombstoneHurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedQuit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedResume.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelpZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscoresZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlayZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelectorZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\black.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\FinishLine.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButtonZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\LevelCompleted.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoreScreen\HighscoresBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoreScreen\HighscoresBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\boo.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Hit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Jump.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Selection.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound1.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound2.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GeneralFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoresFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.csprojResolveAssemblyReference.cache
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.1\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelp.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscores.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PauseButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PlayButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButton.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButtonMute.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\CustomizeMenu.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchToRun.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlpha.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaBlue.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaGreen.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaOrange.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPink.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPurple.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaYellow.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunToCrouch.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunRedThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunBlueThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunGreenThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunOrangeThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPinkThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPurpleThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunYellowThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunZombieThumb.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\underline.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky)ZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrackZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Craters).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Horizon).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundDistantStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth(Color).xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundStars.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonSky.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumTrack.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\Track.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverReplay.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\BonesOverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\Hurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\OverheadBar.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\TombstoneHurdle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedQuit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedResume.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedTitle.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelpZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscoresZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlayZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelectorZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelector.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\black.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\FinishLine.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomize.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButtonZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\LevelCompleted.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoreScreen\HighscoresBackground.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoreScreen\HighscoresBackgroundZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\boo.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Hit.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Jump.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Selection.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound1.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound2.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GeneralFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoresFont.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.wma
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.csprojResolveAssemblyReference.cache
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.exe
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.pdb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpZombie.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarthZombieMode.xnb
+C:\Users\Frogger-PC\Documents\UIS\CSC478\TheRunner3.0.2\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackgroundZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackground.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlay.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomize.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelp.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscores.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButton.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PauseButton.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\PlayButton.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButton.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\SoundButtonMute.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\CustomizeMenu.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlpha.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPink.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchToRun.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlpha.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPink.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlpha.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaBlue.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaGreen.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaOrange.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPink.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaPurple.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunAlphaYellow.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunToCrouch.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\RunZombie.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunRedThumb.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunBlueThumb.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunGreenThumb.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunOrangeThumb.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPinkThumb.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunPurpleThumb.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunYellowThumb.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\RunZombieThumb.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\underline.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon).xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Horizon)ZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky).xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryBackground(Sky)ZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrack.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\CountryTrackZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Craters).xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground(Horizon).xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackground.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundDistantStars.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth(Color).xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarth.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundStars.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonSky.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonTrack.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackground.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumTrack.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\Track.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverReplay.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GameOverScreen\GameOverTitle.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\BonesOverheadBar.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\Hurdle.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\OverheadBar.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\TombstoneHurdle.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedQuit.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedResume.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedSelector.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\PausedScreen\PausedTitle.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleBackgroundZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHelpZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleHighscoresZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitlePlayZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelectorZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\TitleScreen\TitleSelector.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\black.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Obstacles\FinishLine.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomize.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\CustomizeScreen\TitleCustomizeZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\CrouchZombie.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackground.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HelpScreen\HelpBackgroundZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Buttons\BackButtonZombie.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\LevelCompleted.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoreScreen\HighscoresBackground.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoreScreen\HighscoresBackgroundZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sprite\JumpZombie.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\MoonBackgroundEarthZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Backgrounds\StadiumBackgroundZombieMode.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\boo.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Hit.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Jump.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\Selection.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound1.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\ZombieSound2.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\GeneralFont.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\HighscoresFont.xnb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\CustomizeMusic.wma
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HelpMusic.wma
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\HighScoreMusic.wma
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\MarioBrosTheme.wma
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\NateTheme.wma
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\Content\Sound\TitleMusic.wma
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.exe
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\bin\x86\Debug\TheRunner.pdb
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.csprojResolveAssemblyReference.cache
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.exe
+C:\Users\Arakis00\Desktop\Development\TheRunner(FinalVersion)\TheRunner(FinalVersion)\TheRunner\TheRunner\TheRunner\TheRunner\obj\x86\Debug\TheRunner.pdb
